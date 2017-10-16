@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 New File 3 in Branch.
 
 Stashed Changes.
 
+=======
+New File 3 in Branch.
+
+Stashed Changes.
+
+>>>>>>> e10554a22814764184fbae54255e6eb4562b4255
 v2 changes.

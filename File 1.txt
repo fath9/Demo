@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Initialize File 1 text for Master Branch. - 2nd Change.
 
 Additional changes to File 1.
 
 Ammended Changes.
 
+=======
+Initialize File 1 text for Master Branch. - 2nd Change.
+
+Additional changes to File 1.
+
+Ammended Changes.
+
+>>>>>>> e10554a22814764184fbae54255e6eb4562b4255
 v2 changes.

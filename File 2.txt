@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Initialize File 2 text for Master Branch.
 
+=======
+Initialize File 2 text for Master Branch.
+
+>>>>>>> e10554a22814764184fbae54255e6eb4562b4255
 More Changes to File 2.
